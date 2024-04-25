@@ -25,6 +25,7 @@ public class LexusTestDriveFormVlidation {
 
         }
         
+       System.out.print("git commit");
        
         WebElement firstName = driver.findElement(By.name("input_first_name"));
         firstName.sendKeys("CPL");
