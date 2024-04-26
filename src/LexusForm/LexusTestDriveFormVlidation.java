@@ -28,6 +28,8 @@ public class LexusTestDriveFormVlidation {
        System.out.print("git commit");
        System.out.print("git commit 222");
        
+       System.out.print("git commit gitnewbbbbbbbbbbbb");
+       
         WebElement firstName = driver.findElement(By.name("input_first_name"));
         firstName.sendKeys("CPL");
 
